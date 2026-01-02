@@ -1,0 +1,13 @@
+projects:
+  DPNano_Product_Weather:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1766728078096
+  wM-Product-Petstore:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1766728083858

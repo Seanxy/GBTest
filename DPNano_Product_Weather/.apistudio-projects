@@ -1,0 +1,5 @@
+projects:
+  DPNano_Product_Weather:
+    description: 'Publishes to DataPower Nano Gateway with invoke policy along with Product'
+    tags: ['DataPower Nano Gateway']
+    lastUpdated: 1743005951090

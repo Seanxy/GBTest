@@ -1,0 +1,9 @@
+projects:
+  wM_Product_Petstore:
+    description: >-
+      A webMethods project containing a Product, Plan and a petstore API with an
+      invoke and a logging policy.
+    tags:
+      - wM
+      - product
+    lastUpdated: 1762594299756
